@@ -1,1 +1,1 @@
-# super-duper-journey
+# first-repository
